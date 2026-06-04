@@ -18,6 +18,7 @@ app.use(
         credentials: true,
     })
 );
+app.use(cookieParser());
 
 // Routes
 app.use("/api/auth", authRoutes);
