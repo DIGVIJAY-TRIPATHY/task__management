@@ -245,7 +245,7 @@ http://localhost:5173
 
 # 👨‍💻 Author
 
-**Digvijay Tripathy**
+**DIGVIJAY TRIPATHY**
 
 B.Tech CSE | NIT Rourkela
 
