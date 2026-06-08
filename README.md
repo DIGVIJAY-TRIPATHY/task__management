@@ -247,11 +247,11 @@ http://localhost:5173
 
 **DIGVIJAY TRIPATHY**
 
-B.Tech CSE | NIT Rourkela
+B.Tech CSE | NIT BHUBANESWAR
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/DIGVIJAY-TRIPATHY
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/digvijay-tripathy-194aa8314/
 
 ---
 
